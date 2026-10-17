@@ -1,0 +1,17 @@
+# LLM APIs
+anthropic>=0.111.0
+openai>=2.43.0
+
+# Configuration
+python-dotenv>=1.2.2
+
+# Embedding model (Qwen3-Embedding-0.6B)
+torch>=2.11.0
+transformers>=5.12.1
+numpy>=2.3.5
+
+# Pairwise-evaluation radar chart (src/evaluation/pairwise_plot.py)
+matplotlib>=3.11.1
+
+# Semantic Scholar API client
+httpx>=0.28.1
