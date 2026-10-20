@@ -96,3 +96,8 @@ evaluation follows CoI-Agent:
   year    = {2024}
 }
 ```
+
+## License
+
+This project is licensed under the [Apache License 2.0](LICENSE). See [NOTICE](NOTICE)
+for attribution and acknowledgment of government support.
