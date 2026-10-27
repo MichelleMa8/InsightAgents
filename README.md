@@ -3,8 +3,7 @@
   <h1>InsightAgents</h1>
   <p><strong>Research idea generation through a debate among insight-grounded expert agents</strong></p>
   <p>
-    <!-- TODO: replace "#" with the arXiv link once the paper is out -->
-    <a href="#"><img alt="Paper" src="https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" /></a>
+    <a href="https://arxiv.org/abs/2610.33366"><img alt="Paper" src="https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" /></a>
     <a href="#quick-start"><img alt="Quick Start" src="https://img.shields.io/badge/Quick-Start-2563eb?style=for-the-badge" /></a>
     <a href="docs/evaluation.md"><img alt="Evaluation" src="https://img.shields.io/badge/Pairwise-Evaluation-7c3aed?style=for-the-badge" /></a>
   </p>
